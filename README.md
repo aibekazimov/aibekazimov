@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**itsdevcoder/itsdevcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Aibek Z., also known as "DevCoder".
 
-Here are some ideas to get you started:
+## Software Engineer Specializing in Front-End Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a strong focus on user experience and design. I'm passionate about learning and sharing my knowledge, and I love to create awesome and meaningful software.
+
+### My Journey in the Tech World
+My journey in the tech world has been all about trying new things and constantly improving.
+
+### Currently
+- 🌱 Learning AWS Certified Developer
+
+### Reach Out
+- 💬 Ask me about Front-End Development, Next.js, and React.
+- 📫 Contact: [collab@itsdevcoder.com](mailto:collab@itsdevcoder.com)
+
+### About Me
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Before becoming a software engineer, I was a food scientist!
+
+### Soft Skills
+- Analytical mindset
+- Time management
+- Self-discipline
+- Independent problem-solving
+- Effective communication and dialogue-building
+- Rational and critical thinking
+- Systematic and structural understanding
