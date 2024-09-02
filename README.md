@@ -1,6 +1,6 @@
-𝘿𝙚𝙫𝙘𝙤𝙙𝙚𝙧™-Just code it.
+Devcoder™-
 
-Software Engineer & Founder of "𝘿𝙚𝙫𝙘𝙤𝙙𝙚𝙧's Tech Journey".
+Software Engineer
 
-www.devcoder.me
-wwww.itsdevcoder.com
+www.devcoder.xyz
+wwww.devcoder.me
