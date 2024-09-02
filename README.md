@@ -1,6 +1,7 @@
-Devcoder™-
+Devcoder™- @devcoderxyz
 
-Software Engineer
+I love writing #code. 
+My favorite #programming #language is #HTML. 
+I like posting #programming #memes.
 
-www.devcoder.xyz
-wwww.devcoder.me
+www.devcoder.xyz | wwww.devcoder.me
