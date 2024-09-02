@@ -1,5 +1,5 @@
 # Devcoder™ - @devcoderxyz
 
-### I love writing #code. My favorite #programming #language is #HTML. I like posting #programming #memes.
+### I love writing #code. My favorite #programming #language is #HTML.
 
 www.devcoder.xyz | www.devcoder.me
