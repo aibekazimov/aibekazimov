@@ -1,5 +1,5 @@
-# Devcoder™ - @devcoderxyz
-
+# Aibek Aseinov - @aibekaseinov
+ 
 ### I love writing #code. My favorite #programming #language is #HTML.
 
-www.devcoder.xyz | www.devcoder.me
+www.aibekaseinov.com | aseinov.com
