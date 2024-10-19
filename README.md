@@ -2,4 +2,4 @@
  
 ### I love writing #code. My favorite #programming #language is #HTML.
 
-www.aibekaseinov.com | aseinov.com
+aibekaseinov.com | aseinov.com
