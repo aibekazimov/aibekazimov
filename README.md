@@ -1,1 +1,1 @@
-# Aibek Aseinov - aibekaseinov.com
+# Aibek Azimov
